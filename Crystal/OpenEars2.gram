@@ -1,0 +1,12 @@
+#JSGF V1.0;
+grammar samplegrammar;
+public <mygrammar2> = FACEBOOK |
+MONDAY |
+TUESDAY |
+WEDNESDAY |
+THURSDAY |
+FRIDAY |
+SATURDAY |
+SUNDAY |
+CHANGE MODEL | 
+QUIDNUNC;
