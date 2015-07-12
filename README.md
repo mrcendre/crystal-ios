@@ -5,6 +5,12 @@ A (beta) Modern UI based web browser designed to recreate the experience of Wind
 Just compile it, and you're good to go. 
 
 
+Remark
+-------
+
+This was created in 2012, at the time I had a very poor knowledge of the iOS platform, so you're very likely to pull your hair off when checking this un-optimized source code. 
+
+
 Features
 --------
 
